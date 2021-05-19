@@ -5,7 +5,7 @@
 This project utilizes AXI 10G/25G Ethernet Subsystem configured for 10GBASE-R. This has been routed to the SFP cage on SFP2 for use on a ZCU102 board. System is configured to use the ZCU102 si570 at 156.25MHz.
 
 - `eth0` is configured as GEM3 routed via RGMII to the on-board PHY.
-- `eth1` is configured as 10G/25G Ethernet Subsystem routed to SFP1.
+- `eth1` is configured as 10G/25G Ethernet Subsystem routed to SFP2.
 
 ---
 
