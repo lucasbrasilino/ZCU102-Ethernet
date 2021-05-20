@@ -1,3 +1,8 @@
+# What this repo is about
+
+This repository contains the **pl_eth_10g** design [backported to Vivado 2018.3](2018.3/pl_eth_10g), plus all others directly
+forked from Xilinx's repo.
+
 # ZCU102 PS and PL based 1G/10G Ethernet
 This repository contains ZCU102 design files for PS and PL based 1G/10G Ethernet on a rolling release.
 
