@@ -23,7 +23,7 @@ This project utilizes AXI 10G/25G Ethernet Subsystem configured for 10GBASE-R. T
 
 Enter the `Scripts` directory. From the command line run the following:
 
-`vivado -source *top.tcl`
+`vivado -mode batch -source *top.tcl`
 
 The Vivado project will be built in the `Hardware` directory.
 
